@@ -1,4 +1,4 @@
-# Jobindex, IT-Jobbank & Ofir Jobs Feed
+# Jobindex Jobs Feed
 
 Extract structured data from [Jobindex.dk](https://Jobindex.dk) — structured job listings from Denmark's largest job portals — Jobindex.dk, IT-Jobbank.dk, and Ofir.dk. Returns title, company with ratings and social media, location with GPS coordinates, full descriptions, and 39 fields per listing.
 
