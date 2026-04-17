@@ -2,11 +2,12 @@
 
 Extract structured data from [Jobindex.dk](https://Jobindex.dk) — structured job listings from Denmark's largest job portals — Jobindex.dk, IT-Jobbank.dk, and Ofir.dk. Returns title, company with ratings and social media, location with GPS coordinates, full descriptions, and 39 fields per listing.
 
-**[Jobindex Scraper on Apify →](https://apify.com/blackfalcondata/jobindex-scraper)**
+**[Jobindex Scraper - Denmark Job Listings on Apify →](https://apify.com/blackfalcondata/jobindex-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [Jobindex.dk](https://Jobindex.dk) — structured j
 ---
 
 ## Use cases
+
 
 
 
@@ -80,6 +82,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
